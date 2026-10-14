@@ -1,14 +1,25 @@
 <div align="center">
 
-# Hi 👋, I'm Krish Gupta
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:203a43,100:2c5364&text=KRISH%20GUPTA&fontAlign=50&fontAlignY=40&fontSize=55&fontColor=00F7FF&animation=fadeIn&desc=Machine%20Learning%20%7C%20Data%20Engineering%20%7C%20AI%20Developer&descAlignY=62&descSize=20"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Machine+Learning+Enthusiast;Data+Engineering+Learner;Open+Source+Contributor;Always+Learning+New+Things!" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=👋+Welcome+to+my+GitHub!;Machine+Learning+Enthusiast;Data+Engineering+Learner;Computer+Vision+Developer;AWS+Cloud+Practitioner;Java+Developer;Building+AI+Projects;Always+Learning+🚀" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212259881-f5f8ddc3-3bb5-4e1d-a42e-3b0b4c6a9b5f.gif" width="700">
+<br>
+
+<img width="650" src="https://user-images.githubusercontent.com/74038190/216656986-3b8dca44-6df8-4b8f-8f43-6d11e7d35fef.gif"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Krish6004&label=Profile+Views&color=00C2FF&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Krish6004?style=for-the-badge&logo=github&color=00C2FF"/>
+
+<img src="https://img.shields.io/github/stars/Krish6004?style=for-the-badge&logo=github&color=00C2FF"/>
 
 </div>
 
 ---
+
 
 # 💫 About Me
 
@@ -122,19 +133,19 @@
 
 # 🌟 Featured Projects
 
-## 🧠 AI Detective
+## 🎓 Smart Attendance System
 
-Semantic Search Engine using RAG
+AI-powered Face Recognition Attendance System
 
-⭐ Find Movies
+⭐ Real-time Face Detection
 
-⭐ Games
+⭐ Automatic Attendance Marking
 
-⭐ Songs
+⭐ Anti-Spoofing & Duplicate Detection
 
-⭐ Books
+⭐ Student Database Management
 
-⭐ using Natural Language
+⭐ Attendance Reports & Analytics
 
 ---
 
@@ -142,28 +153,27 @@ Semantic Search Engine using RAG
 
 AI-powered Marine Pollution Intelligence System
 
-- Pollution Detection
+- 🌊 Pollution Detection
 
-- Live Map
+- 📍 Live Map
 
-- NGO Integration
+- 🤝 NGO Integration
 
-- AI Image Classification
+- 🤖 AI Image Classification
 
 ---
 
-## 🩺 Pocket Doctor AI
+## ♟️ Chess Engine
 
-AI-powered Prescription Understanding System
+Advanced Chess Engine built from Scratch
 
-✔ OCR
+✔ Minimax Algorithm
 
-✔ Medicine Search
+✔ Alpha-Beta Pruning
 
-✔ Drug Interaction Detection
+✔ Position Evaluation Function
 
-✔ AI Medical Assistant
-
+✔ Move Generation & Game Analysis
 ---
 
 # 📊 GitHub Statistics
