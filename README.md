@@ -21,44 +21,151 @@
 ---
 
 
-# 💫 About Me
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
 
-🎓 B.Tech CSE (Artificial Intelligence)
+<table>
+<tr>
 
-🏫 KIET Group of Institutions
+<td width="60%">
 
-🤖 Passionate about Machine Learning
+### 👨‍🎓 Student
 
-📊 Learning Data Engineering
+🎓 **B.Tech Computer Science (Artificial Intelligence)**
 
-☁ AWS Cloud Practitioner Certified
-
-💻 Love building AI Applications
-
-🚀 Looking for ML/Data Engineering Internships
+🏫 **KIET Group of Institutions**
 
 ---
 
-# 🚀 Tech Stack
+### 🚀 Currently Learning
 
-### Languages
+- 🤖 Machine Learning
+- ☁ Data Engineering
+- 🧠 Deep Learning
+- 📊 Data Analytics
+- ⚡ System Design
+
+---
+
+### 💼 Career Goal
+
+💡 Building practical AI products that solve real-world problems.
+
+🎯 Looking for **Machine Learning** and **Data Engineering Internships.**
+
+---
+
+### 🌱 Currently Working On
+
+- 🎓 Smart Attendance System
+- 🌊 MarinePulse AI
+- ♟ Chess Engine
+- 🧠 AI Detective (RAG)
+
+</td>
+
+<td width="40%">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJxYW9lMWh6ZTR4eDk4Z3Y0MWM2Z2dqMnhvN3NjdjY2bW16MW1mNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="35"> Tech Stack
+
+<div align="center">
+
+## 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript,typescript" />
+</p>
+
+---
+
+## 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express" />
+</p>
+
+---
+
+## 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=java"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=c"/>
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
 
-<img src="https://skillicons.dev/icons?i=javascript"/>
+<img src="https://img.shields.io/badge/CatBoost-FFD54F?style=for-the-badge"/>
 
-<img src="https://skillicons.dev/icons?i=typescript"/>
+<img src="https://img.shields.io/badge/Random%20Forest-2E8B57?style=for-the-badge"/>
 
 </p>
 
 ---
 
+## 🗄️ Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,sqlite" />
+
+</p>
+
+---
+
+## ☁ Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+
+</p>
+
+---
+
+## 🛠 Development Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=vscode,anaconda,postman,linux" />
+
+</p>
+
+---
+
+## 📊 Data Analytics
+
+<p>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+</p>
+
+</div>
+
+---
 ### Web Development
 
 <p>
@@ -113,24 +220,51 @@
 
 ---
 
-### Tools
+---
+
+# <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35"> Development Tools
+
+<div align="center">
+
+### 💻 IDEs & Editors
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,anaconda,jupyter" />
+</p>
+
+---
+
+### ⚙ Version Control
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+---
+
+### 🧰 Developer Tools
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=anaconda"/>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
+<img src="https://skillicons.dev/icons?i=postman,docker,linux,bash" />
 
 </p>
 
 ---
 
+### 📊 Analytics & BI
+
+<p>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+</p>
+
+</div>
+
+---
 # 🌟 Featured Projects
 
 ## 🎓 Smart Attendance System
