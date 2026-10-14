@@ -166,61 +166,7 @@
 </div>
 
 ---
-### Web Development
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=nextjs"/>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<img src="https://skillicons.dev/icons?i=express"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-</p>
-
----
-
-### Machine Learning
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-
-<img src="https://skillicons.dev/icons?i=pytorch"/>
-
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/CatBoost-FFD700?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/RandomForest-228B22?style=for-the-badge"/>
-
-</p>
-
----
-
-### Database & Cloud
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-<img src="https://skillicons.dev/icons?i=supabase"/>
-
-<img src="https://skillicons.dev/icons?i=aws"/>
-
-</p>
-
----
-
----
 
 # <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35"> Development Tools
 
